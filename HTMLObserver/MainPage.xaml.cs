@@ -26,5 +26,10 @@ namespace HTMLObserver
         {
             this.InitializeComponent();
         }
+
+        private void SubmitBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
